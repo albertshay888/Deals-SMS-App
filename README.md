@@ -15,7 +15,7 @@ DEMO:
 3) node app.js (run app, results will also be shown in the terminal) 
 
 
-# Next steps in progress 
+# Working steps in progress 
 1) SMS Twilio functionality when deals change
 2) Add other high-demand brands and labels 
 3) Transform into a scablable and marketable application utlizing MERN stack

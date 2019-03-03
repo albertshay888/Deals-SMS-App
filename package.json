@@ -1,0 +1,13 @@
+{
+	"name": "Deals SMS App",
+	"version": "0.0.1",
+	"description": "Discover all of Sephora's latest deals via sms in real-time",
+	"author": "albertshay888@gmail.com",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.16.4",
+		"local": "^0.3.3",
+		"puppeteer": "^1.12.2"
+	},
+	"proxy": "http://localhost:3000/"
+}

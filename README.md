@@ -1,5 +1,5 @@
 # Deals SMS App:
-Never miss a single deal again on your favorite brands again with this custom-built restful API! 
+Never miss a single deal again on your favorite brands with this custom-built restful API! 
 
 Rather than trying to find deals through third party extensions which directs you to either the lowest price regardless of a vendor's reputation or sometimes promoting unreliable coupon codes that may have already expired, try Deals App instead!
 

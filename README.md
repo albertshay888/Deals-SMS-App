@@ -1,9 +1,9 @@
 # Deals SMS App:
-Never miss a single Sephora deal again with this custom-built restful API! 
+Never miss a single deal again on your favorite brands again with this custom-built restful API! 
 
 Rather than trying to find deals through third party extensions which directs you to either the lowest price regardless of a vendor's reputation or sometimes promoting unreliable coupon codes that may have already expired, try Deals App instead!
 
-By using Deals, shoppers will be notified and updated in real-time via sms as soon as a discounts/sales of their particular product/s appears or changes on sephora.com entailing all of Sephora's latest specials from Makeup, Skin Care, Fragrance, Tools to Men Products and more. 
+By using Deals, shoppers will be notified and updated in real-time via sms as soon as a discounts/sales of their particular product/s appears or changes directly on the brand website like sephora.com entailing all of Sephora's latest specials from Makeup, Skin Care, Fragrance, Tools to Men Products and more. More brands that later be add: Zara, Lululemon, H&M, Uniqloe, Forever 21, North Face, Urban Outfitters, Nike, American Apparel, JCREW, GAP, Addidas and much more.
 
 DEMO:
 

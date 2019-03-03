@@ -5,7 +5,7 @@ Rather than trying to find deals through third party extensions which directs yo
 
 By using Deals, shoppers will be notified and updated in real-time via sms as soon as a discount or sales of their particular product appears/changes directly on the brand website like sephora.com entailing all of Sephora's latest specials from Makeup, Skin Care, Fragrance, Tools to Men Products and more. 
 
-More brands that will soon be added to Deals: Zara, Lululemon, H&M, Uniqloe, Forever 21, North Face, Urban Outfitters, Nike, American Apparel, JCREW, GAP, Addidas and much more.
+More brands that will soon be added to Deals: Zara, Lululemon, H&M, Uniqloe, Forever 21, North Face, Urban Outfitters, Nike, American Apparel, JCREW, Gap, Addidas and much more.
 
 DEMO:
 

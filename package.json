@@ -1,7 +1,7 @@
 {
 	"name": "Deals SMS App",
 	"version": "0.0.1",
-	"description": "Discover all of your brand's latest deals via sms in real-time",
+	"description": "Discover all of your favorite brand's latest deals via sms in real-time!",
 	"author": "albertshay888@gmail.com",
 	"main": "app.js",
 	"dependencies": {
